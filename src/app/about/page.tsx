@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   description: PAGE_SEO.about.description,
 };
 
-
 const coreValues = [
   ["Growth", "We believe learning is a continuous journey of improvement and discovery."],
   ["Practical Excellence", "We encourage learners to apply knowledge, evaluate outcomes, and refine their abilities."],
